@@ -3,6 +3,7 @@
 ## Power BI Dashboard (Static)
 
 For a static version of the Power BI dashboard, you can view and download the PDF file:
+- [Link to Static Power BI Dashboard (PDF)](https://github.com/Abhishek7574/call_centre_Diversity-Inclusion_dashboard_PowerBI/blob/16509d27ae037ea65b11904dcf808e4c4e8903f5/call%20centre%20diversity.pdf)
 
 
 ## Problem Statement
