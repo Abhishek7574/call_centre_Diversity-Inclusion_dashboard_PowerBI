@@ -46,6 +46,45 @@ In the process of creating visualizations, various measures were implemented in 
 - `Average performance rating: men`
 - `Average performance rating: women`
 
+ ## Power BI Dashboard (Dynamic)
+
+Explore the interactive Power BI dashboard created to visualize various KPIs and metrics. The dashboard includes the following key performance indicators (KPIs), providing insights into different aspects of HR data:
+
+1. **KPI 1 - Hiring:**
+   - Visualize hiring trends and metrics to understand recruitment patterns.
+
+2. **KPI 2 - Promotions (this year):**
+   - Analyze promotions that occurred within the current year to track career progression.
+
+3. **KPI 3 - Turnover Rate (FY20 leavers):**
+   - Evaluate the turnover rate based on data from employees who left in FY20.
+
+4. **KPI 4 - Performance Rating:**
+   - Explore performance ratings across the organization to assess employee performance.
+
+5. **KPI 5 - Executive Gender Balance:**
+   - Assess the gender balance at the executive management level.
+
+6. **KPI 6 - Age Group:**
+   - Understand the distribution of employees across different age groups.
+
+### Slicers for Data Adjustment:
+
+The dashboard is equipped with slicers, allowing users to dynamically adjust the displayed data based on specific criteria. Slicers include:
+
+- **Age:** Filter data based on age groups to gain insights into different generational patterns.
+
+- **Department:** Analyze HR metrics specific to different departments within the organization.
+
+- **Job Level:** Explore KPIs based on various job levels to understand performance across different roles.
+
+- **Region:** Evaluate regional variations in HR metrics by using the region slicer.
+
+Adjusting these slicers provides a customized view of the HR data, enabling a more focused and detailed analysis.
+
+[Link to Dynamic Power BI Dashboard (PBIX)](https://github.com/Abhishek7574/call_centre_Diversity-Inclusion_dashboard_PowerBI/blob/your-commit-hash/call%20centre%20diversity.pbix)
+
+
 ### Repository Files:
 
 The repository is organized with the following files:
