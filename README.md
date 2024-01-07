@@ -1,5 +1,10 @@
 # HR Data Visualization Project
 
+## Power BI Dashboard (Static)
+
+For a static version of the Power BI dashboard, you can view and download the PDF file:
+
+
 ## Problem Statement
 
 The HR Data Visualization project aims to analyze and represent HR data from the Forge platform, with a specific focus on gender-related Key Performance Indicators (KPIs). The primary goal is to identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level. The dataset includes information about employees, such as age, gender, employment duration, promotion history, job roles, and more.
