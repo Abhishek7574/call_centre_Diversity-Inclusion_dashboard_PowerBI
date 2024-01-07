@@ -82,7 +82,7 @@ The dashboard is equipped with slicers, allowing users to dynamically adjust the
 
 Adjusting these slicers provides a customized view of the HR data, enabling a more focused and detailed analysis.
 
-[Link to Dynamic Power BI Dashboard (PBIX)](https://github.com/Abhishek7574/call_centre_Diversity-Inclusion_dashboard_PowerBI/blob/your-commit-hash/call%20centre%20diversity.pbix)
+- [Link to Dynamic Power BI Dashboard (PBIX)](https://github.com/Abhishek7574/call_centre_Diversity-Inclusion_dashboard_PowerBI/blob/3ee4a12dd4ee5cf2c494b10730f91e3891feae0e/call%20centre%20diversity.pbix)
 
 
 ### Repository Files:
