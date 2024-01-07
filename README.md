@@ -12,18 +12,15 @@ The HR Data Visualization project aims to analyze and represent HR data from the
 
 ### Project Objectives:
 
-1. **Define Relevant KPIs:**
-   - Design visualizations to represent HR data, focusing on the following key areas:
+1. **Define Relevant KPIs:** Design visualizations to represent HR data, focusing on the following key areas:
      - Hiring
      - Promotion
      - Performance
      - Turnover
 
-2. **Root Cause Analysis:**
-   - Identify and discuss potential root causes contributing to the slow progress in achieving gender balance at the executive management level. This analysis will involve a deep dive into the HR data to understand patterns and trends.
+2. **Root Cause Analysis:** Identify and discuss potential root causes contributing to the slow progress in achieving gender balance at the executive management level. This analysis will involve a deep dive into the HR data to understand patterns and trends.
 
 ### HR Data Overview:
-
 The dataset (`03_Diversity-Inclusion-Dataset.xlsx`) includes essential HR-related information, such as:
 - Employee age
 - Gender
@@ -33,7 +30,6 @@ The dataset (`03_Diversity-Inclusion-Dataset.xlsx`) includes essential HR-relate
 - Other relevant data points
 
 ### Power BI Measures:
-
 In the process of creating visualizations, various measures were implemented in Power BI, including but not limited to:
 - `# of men`
 - `# of women`
@@ -50,23 +46,17 @@ In the process of creating visualizations, various measures were implemented in 
 
 Explore the interactive Power BI dashboard created to visualize various KPIs and metrics. The dashboard includes the following key performance indicators (KPIs), providing insights into different aspects of HR data:
 
-1. **KPI 1 - Hiring:**
-   - Visualize hiring trends and metrics to understand recruitment patterns.
+1. **KPI 1 - Hiring:** Visualize hiring trends and metrics to understand recruitment patterns.
 
-2. **KPI 2 - Promotions (this year):**
-   - Analyze promotions that occurred within the current year to track career progression.
+2. **KPI 2 - Promotions (this year):** Analyze promotions that occurred within the current year to track career progression.
 
-3. **KPI 3 - Turnover Rate (FY20 leavers):**
-   - Evaluate the turnover rate based on data from employees who left in FY20.
+3. **KPI 3 - Turnover Rate (FY20 leavers):** Evaluate the turnover rate based on data from employees who left in FY20.
 
-4. **KPI 4 - Performance Rating:**
-   - Explore performance ratings across the organization to assess employee performance.
+4. **KPI 4 - Performance Rating:** Explore performance ratings across the organization to assess employee performance.
 
-5. **KPI 5 - Executive Gender Balance:**
-   - Assess the gender balance at the executive management level.
+5. **KPI 5 - Executive Gender Balance:** Assess the gender balance at the executive management level.
 
-6. **KPI 6 - Age Group:**
-   - Understand the distribution of employees across different age groups.
+6. **KPI 6 - Age Group:** Understand the distribution of employees across different age groups.
 
 ### Slicers for Data Adjustment:
 
@@ -89,14 +79,10 @@ Adjusting these slicers provides a customized view of the HR data, enabling a mo
 
 The repository is organized with the following files:
 
-- **Data Source:**
-  - The dataset is stored in `03_Diversity-Inclusion-Dataset.xlsx`.
+- **Data Source:** The dataset is stored in `03_Diversity-Inclusion-Dataset.xlsx`.
 
-- **Power BI Dashboard (Dynamic):**
-  - The Power BI file containing interactive and dynamic visualizations is named `call_centre_diversity.pbix`.
+- **Power BI Dashboard (Dynamic):** The Power BI file containing interactive and dynamic visualizations is named `call_centre_diversity.pbix`.
 
-- **Power BI Dashboard (Static):**
-  - A static version of the Power BI dashboard is available in PDF format (`call_centre_diversity.pdf`).
+- **Power BI Dashboard (Static):** A static version of the Power BI dashboard is available in PDF format (`call_centre_diversity.pdf`).
 
-- **README.md:**
-  - The main README file providing an overview of the project, problem statement, dataset details, Power BI measures, and instructions.
+- **README.md:** The main README file providing an overview of the project, problem statement, dataset details, Power BI measures, and instructions.
